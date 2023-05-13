@@ -1,0 +1,26 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+footer a {
+  text-align: center;
+  margin: 10px;
+  cursor: pointer;
+  color: brown;
+}
+
+footer {
+  text-align: center;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
